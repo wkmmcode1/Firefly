@@ -5,7 +5,7 @@
 
 # 流萤 / Firefly 
 > 一款清新美观的 Astro 静态博客主题模板
-> 
+>
 > ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
 ![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue)
 ![Astro](https://img.shields.io/badge/Astro-6.4.4-orange)
